@@ -20,3 +20,8 @@ By the end of the lab, you will have:
 
 1. [Sign up](https://ibm.biz/BdzgtS) for an IBM Cloud account.
 2. Follow the instructions in [this gitbook](http://ibm.biz/ddc-wos).
+
+
+## Slides
+
+Find them here on [slide share](http://ibm.biz/slides-margriet)
